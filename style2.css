@@ -1,0 +1,23 @@
+#grid {
+  display: grid;
+  grid-template-columns: 150px auto;
+  margin:0;
+}
+#task {
+  padding-left: 20px;
+}
+a {
+  text-decoration: none;
+  color:black;
+}
+ol {
+  padding-top: 20px;
+  margin : 0;
+  border-right:gray solid 2px;
+}
+h1 {
+  text-align: center;
+  border-bottom: gray solid 3px;
+  padding-bottom: 10px;
+  margin:0;
+}
